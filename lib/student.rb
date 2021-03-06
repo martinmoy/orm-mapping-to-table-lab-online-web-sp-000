@@ -44,5 +44,3 @@ class Student
 
 end
 
-
-hello
